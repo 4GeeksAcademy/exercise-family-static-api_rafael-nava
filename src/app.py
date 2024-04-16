@@ -1,5 +1,6 @@
 """
 Este módulo se encarga de iniciar el servidor API, cargar la base de datos y agregar los endpoints.
+#https://www.youtube.com/watch?v=_6Fmuw-lGNk&t=2205s video con la explicacion 🤯
 """
 
 import os  # Importa el módulo os para trabajar con funcionalidades dependientes del sistema operativo
